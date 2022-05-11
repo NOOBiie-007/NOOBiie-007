@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NOOBiie-007
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web development as front end and back end
 - 🌱 I’m currently learning js,react app
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (1803048@student.ruet.ac.bd)
